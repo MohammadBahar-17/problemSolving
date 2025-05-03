@@ -23,3 +23,4 @@
 | **Flexibility**      | High (custom logic)    | Low (limited to API)     |
 
 > Where `n` = length of text, `m` = length of pattern.
+> ![alt text](mB.JPG)

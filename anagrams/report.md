@@ -15,3 +15,5 @@
 | Space Complexity | O(1)                    | O(n)       |
 | Readability      | Moderate                | High       |
 | Performance      | High (for large inputs) | Moderate   |
+
+![alt text](image.png)
